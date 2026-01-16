@@ -35,11 +35,13 @@ I enjoy designing systems that combine **data, intelligence, and practical engin
 ### 🗄️ Databases
 - MongoDB
 - Vector Databases (FAISS / Chroma / similar)
+- SQL
 
 ### ⚙️ Tools & Platforms
 - Git & GitHub
 - VS Code
 - Docker (learning & usage)
+- Kubernetes
 - Linux Basics
 
 ---
