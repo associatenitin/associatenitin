@@ -62,8 +62,10 @@ I enjoy designing systems that combine **data, intelligence, and practical engin
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=associatenitin&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=associatenitin&layout=compact)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=associatenitin&show_icons=true&hide_border=true)](https://github.com/associatenitin)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=associatenitin&layout=compact&hide_border=true)](https://github.com/associatenitin)
+
 
 ---
 
