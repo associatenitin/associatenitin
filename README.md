@@ -72,7 +72,7 @@ I’m open to:
 📫 **Reach me at**  
 - GitHub: https://github.com/associatenitin  
 - LinkedIn: www.linkedin.com/in/nitin-verma-61038614
-- Twitter/x : https://x.com/Code_Nitin
+- Twitter/X : https://x.com/Code_Nitin
 
 ---
 
