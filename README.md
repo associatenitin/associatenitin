@@ -52,6 +52,7 @@ I enjoy designing systems that combine **data, intelligence, and practical engin
 (Each project focuses on clean code, real use cases, and scalability)
 
 - 🔹 **RAG-based AI Applications**
+- 🔹 **AI Vision ML**
 - 🔹 **Backend APIs with Node.js & MongoDB**
 - 🔹 **ML & AI Experiments**
 - 🔹 **Utility & Automation Scripts**
